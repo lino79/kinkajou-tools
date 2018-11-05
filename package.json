@@ -1,0 +1,13 @@
+{
+	"name": "@kinkajou/tools",
+	"version": "0.0.1-alpha.1",
+	"private": true,
+	"description": "Generic tools for data manipulation",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lino79/kinkajou-tools"
+	 },
+	"main": "index.js",
+	"author": "Fabio Contigiani <fabio.contigiani@gmail.com>",
+	"license": "MIT"
+}
